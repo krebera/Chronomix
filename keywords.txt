@@ -1,0 +1,6 @@
+Chronomix KEYWORD1
+setup KEYWORD2
+updateCoils KEYWORD2
+clearClock KEYWORD2
+clearDigit KEYWORD2
+setDigit KEYWORD2
